@@ -1,0 +1,6 @@
+data/
+dbgen/dbgen
+dbgen/qgen
+dbgen/*.o
+queries_raw/
+*.tbl
